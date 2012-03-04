@@ -512,7 +512,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9FBDC54015039DFE00C8D3E1 /* TowerDefense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TowerDefense.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9FBDC54015039DFE00C8D3E1 /* Template.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Template.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FBDC54415039DFE00C8D3E1 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		9FBDC54615039DFE00C8D3E1 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		9FBDC54815039DFE00C8D3E1 /* OpenAL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenAL.framework; path = System/Library/Frameworks/OpenAL.framework; sourceTree = SDKROOT; };
@@ -577,7 +577,7 @@
 		9FBDC54115039DFE00C8D3E1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9FBDC54015039DFE00C8D3E1 /* TowerDefense.app */,
+				9FBDC54015039DFE00C8D3E1 /* Template.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -717,9 +717,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9FBDC53F15039DFE00C8D3E1 /* TowerDefense */ = {
+		9FBDC53F15039DFE00C8D3E1 /* Template */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9FBDC6B515039E0000C8D3E1 /* Build configuration list for PBXNativeTarget "TowerDefense" */;
+			buildConfigurationList = 9FBDC6B515039E0000C8D3E1 /* Build configuration list for PBXNativeTarget "Template" */;
 			buildPhases = (
 				9FBDC53C15039DFE00C8D3E1 /* Sources */,
 				9FBDC53D15039DFE00C8D3E1 /* Frameworks */,
@@ -729,9 +729,9 @@
 			);
 			dependencies = (
 			);
-			name = TowerDefense;
+			name = Template;
 			productName = TowerDefense;
-			productReference = 9FBDC54015039DFE00C8D3E1 /* TowerDefense.app */;
+			productReference = 9FBDC54015039DFE00C8D3E1 /* Template.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -743,7 +743,7 @@
 				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = "Controversial Games";
 			};
-			buildConfigurationList = 9FBDC53A15039DFE00C8D3E1 /* Build configuration list for PBXProject "TowerDefense" */;
+			buildConfigurationList = 9FBDC53A15039DFE00C8D3E1 /* Build configuration list for PBXProject "Template" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -761,7 +761,7 @@
 			);
 			projectRoot = "";
 			targets = (
-				9FBDC53F15039DFE00C8D3E1 /* TowerDefense */,
+				9FBDC53F15039DFE00C8D3E1 /* Template */,
 			);
 		};
 /* End PBXProject section */
@@ -1328,7 +1328,7 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = TowerDefense/Resources/Info.plist;
 				OTHER_LDFLAGS = "-lz";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Template;
 				USER_HEADER_SEARCH_PATHS = "~/Documents/cocos2d-iphone/**";
 				WRAPPER_EXTENSION = app;
 			};
@@ -1346,7 +1346,7 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = TowerDefense/Resources/Info.plist;
 				OTHER_LDFLAGS = "-lz";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Template;
 				USER_HEADER_SEARCH_PATHS = "~/Documents/cocos2d-iphone/**";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
@@ -1356,7 +1356,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9FBDC53A15039DFE00C8D3E1 /* Build configuration list for PBXProject "TowerDefense" */ = {
+		9FBDC53A15039DFE00C8D3E1 /* Build configuration list for PBXProject "Template" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9FBDC6B315039E0000C8D3E1 /* Debug */,
@@ -1365,7 +1365,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9FBDC6B515039E0000C8D3E1 /* Build configuration list for PBXNativeTarget "TowerDefense" */ = {
+		9FBDC6B515039E0000C8D3E1 /* Build configuration list for PBXNativeTarget "Template" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9FBDC6B615039E0000C8D3E1 /* Debug */,

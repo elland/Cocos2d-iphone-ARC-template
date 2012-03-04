@@ -1,6 +1,6 @@
 //
 //  GameConfig.h
-//  TowerDefense
+//  TEMPLATE
 //
 //  Created by Igor Elland on 04.03.12.
 //  Copyright Controversial Games 2012. All rights reserved.

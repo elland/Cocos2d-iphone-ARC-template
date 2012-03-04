@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9FBDC53F15039DFE00C8D3E1"
-               BuildableName = "TowerDefense.app"
+               BuildableName = "Template.app"
                BlueprintName = "Template"
                ReferencedContainer = "container:Template.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9FBDC53F15039DFE00C8D3E1"
-            BuildableName = "TowerDefense.app"
+            BuildableName = "Template.app"
             BlueprintName = "Template"
             ReferencedContainer = "container:Template.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9FBDC53F15039DFE00C8D3E1"
-            BuildableName = "TowerDefense.app"
+            BuildableName = "Template.app"
             BlueprintName = "Template"
             ReferencedContainer = "container:Template.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9FBDC53F15039DFE00C8D3E1"
-            BuildableName = "TowerDefense.app"
+            BuildableName = "Template.app"
             BlueprintName = "Template"
             ReferencedContainer = "container:Template.xcodeproj">
          </BuildableReference>
